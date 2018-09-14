@@ -209,7 +209,7 @@ p {
 }
 
 .header__bottom {
-  background-color: #ff3333;
+  background-color: #1899ed;
   color: #ffffff;
   font-size: 16px;
   text-transform: uppercase;
@@ -254,7 +254,7 @@ p {
 }
 
 .header__menu li > ul li {
-  background-color: #ff3333;
+  background-color: #1899ed;
   display: block;
   width: 100%;
   padding: 0 15px;
@@ -281,7 +281,7 @@ p {
 }
 
 .category {
-  background-color: #ff3333;
+  background-color: #1899ed;
   width: 16.6667%;
   position: absolute;
   top: 0;
